@@ -4,8 +4,8 @@ export default function Projects() {
   const projects = [
     {
       title: "Sistema de Detección de Intrusos en Red (IDS) con Python",
-      link: "https://www.geeksforgeeks.org/reactjs/progress-tracker-using-react-and-local-storage/",
-      img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927120905/gfg.png",
+      link: "https://github.com/leonardostore389-tech/idspython",
+      img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1BFJ71010QT4DaTgCRXzWFxk5gaid4jtzjNlC1pcSguT3N0SuQFRsGRuxI4nZVLNaupDo9rZFEZTVrhyDvXfo38YPv1eNavGj3_2rs1YmmfOuH2wb-5qPSoBJZ8KMZQUyGlPCONp_qPYyy8cuYHaw1MLRvDeMwpPQhBlZOul4UC5lG-LrNqC_ElfQvL_/s1666/idsphyton.PNG",
       description:
         "Un sistema básico de detección de intrusos que monitorea el tráfico de red y genera alertas ante actividades sospechosas.",
       tech: ["Python", "Scapy", "Linux (Kali)", "Nmap", "Networking"],
