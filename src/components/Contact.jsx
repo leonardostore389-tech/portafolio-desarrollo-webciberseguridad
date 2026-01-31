@@ -46,13 +46,14 @@ export default function Contact() {
 
           {/* Gmail */}
           <a
-            href="mailto:geeks_for_nardouni389@gmail.com"
+            href="mailto:geeks_for_leonardo.amaro.a@uni.pe"
             className="flex items-center justify-center gap-3 px-6 py-4 
                        border border-gray-700 rounded-lg shadow 
                        hover:bg-red-600 hover:text-white transition"
           >
             <img src={GmailIcon} alt="Gmail" className="w-6 h-6" />
-            <span className="font-semibold">Gmail</span>
+            <span className="font-semibold">Gmail:</span>
+            <span className="font-semibold">leonardo.amaro.a@uni.pe</span>
           </a>
 
           {/* LinkedIn */}
