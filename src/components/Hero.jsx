@@ -40,7 +40,7 @@ export default function Hero() {
         {/* Nombre */}
         <h1 className="text-5xl lg:text-7xl font-bold">
           <span className="text-white">Leonardo</span>{" "}
-          <span className="text-green-400">Amaro</span>
+          <span className="text-green-400">Amaro A</span>
         </h1>
 
         {/* Typing effect */}
