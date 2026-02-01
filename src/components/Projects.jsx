@@ -5,7 +5,7 @@ export default function Projects() {
   const projects = [
      {
       title: "Escáner de vulnerabilidades de red (Python)",
-      link: "https://github.com/leonardostore389-tech/idspython",
+      link: "https://github.com/leonardostore389-tech/detectarvulner_python",
       img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1BFJ71010QT4DaTgCRXzWFxk5gaid4jtzjNlC1pcSguT3N0SuQFRsGRuxI4nZVLNaupDo9rZFEZTVrhyDvXfo38YPv1eNavGj3_2rs1YmmfOuH2wb-5qPSoBJZ8KMZQUyGlPCONp_qPYyy8cuYHaw1MLRvDeMwpPQhBlZOul4UC5lG-LrNqC_ElfQvL_/s1666/idsphyton.PNG",
       description:
         "Herramienta de escaneo de puertos y detección de servicios expuestos usando Python y Scapy. Identifica vulnerabilidades en redes locales y almacena resultados",
