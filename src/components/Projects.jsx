@@ -16,7 +16,7 @@ export default function Projects() {
     {
       title: "Sistema de Detección de Intrusos en Red (IDS) con Python",
       link: "https://github.com/leonardostore389-tech/idspython",
-      img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1BFJ71010QT4DaTgCRXzWFxk5gaid4jtzjNlC1pcSguT3N0SuQFRsGRuxI4nZVLNaupDo9rZFEZTVrhyDvXfo38YPv1eNavGj3_2rs1YmmfOuH2wb-5qPSoBJZ8KMZQUyGlPCONp_qPYyy8cuYHaw1MLRvDeMwpPQhBlZOul4UC5lG-LrNqC_ElfQvL_/s1666/idsphyton.PNG",
+      img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDSN_W_62VEKU58vZH6ojN-xphpBlurIrlQQ0hG1_K6ayeBNh7tUSmrHkF9mqqHeykPS5VA5Gs6qIT01cunl6bAJWRs6WcC7Djoi2vTIm7mJ3iATpu2PvHWQTQv2pi1u_Ph3_Fm6OADpGeufdhOcgy2e8rYfaqsiCTNXHkcvBwSsZxIbWvE359ZZi3cYvE/s1920/alerteaipsbloqueads.PNG",
       description:
         "Un sistema básico de detección de intrusos que monitorea el tráfico de red y genera alertas ante actividades sospechosas.",
       tech: ["Python", "Scapy", "Linux (Kali)", "Nmap", "Networking","Sqlite", "Javascript"],
