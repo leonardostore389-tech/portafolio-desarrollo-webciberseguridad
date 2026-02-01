@@ -19,7 +19,7 @@ export default function Projects() {
       img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1BFJ71010QT4DaTgCRXzWFxk5gaid4jtzjNlC1pcSguT3N0SuQFRsGRuxI4nZVLNaupDo9rZFEZTVrhyDvXfo38YPv1eNavGj3_2rs1YmmfOuH2wb-5qPSoBJZ8KMZQUyGlPCONp_qPYyy8cuYHaw1MLRvDeMwpPQhBlZOul4UC5lG-LrNqC_ElfQvL_/s1666/idsphyton.PNG",
       description:
         "Un sistema básico de detección de intrusos que monitorea el tráfico de red y genera alertas ante actividades sospechosas.",
-      tech: ["Python", "Scapy", "Linux (Kali)", "Nmap", "Networking"],
+      tech: ["Python", "Scapy", "Linux (Kali)", "Nmap", "Networking","Sqlite", "Javascript"],
     },
     
   ];
