@@ -6,7 +6,7 @@ export default function Projects() {
      {
       title: "Escáner de vulnerabilidades de red (Python)",
       link: "https://github.com/leonardostore389-tech/detectarvulner_python",
-      img:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfg8KI9K23fR6WMKKOBd5PBPV4yjuUoJv7IIImLrAmLAM5H-Wv_p4CdVx2luD2oy9qReFxqZi8wOXTMxONf13NVWnQFLCwxbAjtLzjoGhWguVlC6ajk0_IONTiECqVJrpSjP5Qf_T495E5IDICwYjDgZvLTE2HcVAt96P5YyrTnKJRulGtE6aekbC7TPc/s930/REDLINUXparaescaneo.PNG",
+      img:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaa680qHCJf3vhkXGqN6sxfEbAJqgl3cCVhonhQ0sgle0o_cIShZlxbsJNN11mCGESRtD2Blo5SJ-MSPwUmpbo4xSAUT4RWnXnPMywnsxJe0xXqIGORiMfd_g3Q2WGxfQfdlXcXxP_msEk9XeN3ia008GqtVSdHQqbIk9GLhmhYVMC4TC1E8P3yjPDTKYr/s890/REDLINUXparaescaneo.PNG",
       description:
         "Herramienta de escaneo de puertos y detección de servicios expuestos usando Python y Scapy. Identifica vulnerabilidades en redes locales y almacena resultados",
       tech: ["Python", "Scapy", "Linux (Kali)", "SQL server", "Networking"],
