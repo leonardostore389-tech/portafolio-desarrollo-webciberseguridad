@@ -2,7 +2,7 @@
 
 /* Estilo global */
 body {
-  @apply text-purple-300;       /* texto morado claro */
-  @apply font-mono;             /* fuente tipo terminal */
-  background-color: #5e2750;    /* fondo morado oscuro personalizado */
+  @apply font-mono;                /* fuente tipo terminal */
+  color: #aea79f;                  /* texto morado claro personalizado */
+  background-color: #2C001E;       /* fondo morado oscuro personalizado */
 }
