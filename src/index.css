@@ -1,6 +1,8 @@
 @import "tailwindcss";
+
 /* Estilo global */
 body {
-  @apply text-gray-300;          /* texto gris claro */
-  @apply bg-[#056d63];           /* fondo color hacker personalizado */
+  @apply text-purple-300;       /* texto morado claro */
+  @apply font-mono;             /* fuente tipo terminal */
+  background-color: #5e2750;    /* fondo morado oscuro personalizado */
 }
