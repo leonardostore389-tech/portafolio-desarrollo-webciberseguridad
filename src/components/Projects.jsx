@@ -11,13 +11,13 @@ export default function Projects() {
         "Herramienta de escaneo de puertos y detección de servicios expuestos usando Python y Scapy. Identifica vulnerabilidades en redes locales y almacena resultados",
       tech: ["Python", "Scapy", "Linux (Kali)", "SQL server", "Networking"],
     },
-    {
+     {
   title: "Red Empresarial Multi-LAN Segura con Cisco Packet Tracer",
   link: "https://github.com/leonardostore389-tech/REDLAN-WAnciberseguridad",
   img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLkqyes0ENdTMQPvXg6xC_1gK15G8OvbOVFiKX6eIpQ5x1Y53_eY8KYPd2kOAHZrDDK3ls7owCJvG9nU-32KUWhniXvyPnK_slVURMVo4FoWVb9vXHMECBSTeQ0DDuboAyWv5nS4PsRt8nILkGNYMymC9xee8ZZ1TJWO7KZbYEvkM-9Ki2h4jOEa7idx0S/s1833/REDCISCO.PNG",
   description: "Diseño e implementación de red empresarial multi-LAN con 4 segmentos (DMZ, Usuarios, Servicios). Incluye ACLs, seguridad de puerto, SSH, DHCP Snooping, VLANs y arquitectura de defensa en profundidad",
   tech: ["Cisco Packet Tracer", "Routing & Switching", "ACLs", "VLAN", "SSH", "DHCP/DNS", "Network Security", "DMZ Design"]
-}
+     },
 
     {
       title: "Sistema de Detección de Intrusos en Red (IDS) con Python",
