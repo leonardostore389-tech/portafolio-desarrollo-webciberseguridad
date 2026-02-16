@@ -22,8 +22,8 @@ export default function Projects() {
     title: "OWASP Top 10 laboratorio de Pentesting- Vulnerabilidades",
     link: "https://github.com/leonardostore389-tech/loginresgitertasks/tree/master",
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIs14uXvXtE6nPoOYdHzJSEZf3YSSrTjxCa2fZ1SyL0DqWAzIzhX4Y4daaKtpJTgZm6T_sAJgqLqo4CPw9HIjlNJmfehtBZq61qKL4M8XuHAPhbln-NnXtA142P68JHV__Qtxv2-oYPaGx3eLmwGNKEJ3cCQSI-FIdFkAF5QSUzmRIcvnSGxACKOWPBHl/s1616/gestortareas.PNG",
-    description: "Entorno de práctica para pentesting web con implementación intencional de vulnerabilidades OWASP Top 10. Incluye PoCs documentados de NoSQL Injection, Broken Authentication, XSS y CSRF. Versión hardened disponible con análisis comparativo de controles de seguridad.",
-    tech: ["OWASP TOP 10", "Burp Suite", "JWT Exploitation", "NoSQL Injection", "Node.js", "MongoDB", "React"]
+    description: "Laboratorio de seguridad que implementa y documenta controles de seguridad en una aplicación web MERN Stack, demostrando conocimientos  prácticos en desarrollo seguro, análisis de vulnerabilidades y hardening.",
+    tech: ["OWASP TOP 10", "Rate Limiting", "JWT Security", "Security Auditing","bcrypt", "Node.js", "MongoDB", "React"]
 },
     {
       title: "Sistema de Detección de Intrusos en Red (IDS) con Python",
